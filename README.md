@@ -1,5 +1,5 @@
 # firstofharsha
 this is my first repository
 <br>
-<p>author: harshas</p>
+<p>author: harsha</p>
 
